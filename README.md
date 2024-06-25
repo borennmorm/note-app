@@ -1,6 +1,3 @@
-Certainly! Here's a basic template for your `README.md` file for your Flutter project named "note_app":
-
-```markdown
 # Note App
 
 This is a simple Flutter application for managing notes locally using SQLite database with `sqflite` and state management with `GetX`.
